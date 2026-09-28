@@ -1,0 +1,6 @@
+{
+  "name": "EduTest AI — AI Test Generator & Ta'lim Platformasi",
+  "description": "AI yordamida bir necha soniyada professional testlar yaratish, o'quvchilar natijalarini kuzatish va ta'lim jarayonini avtomatlashtirish platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
